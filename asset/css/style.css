@@ -179,6 +179,7 @@ blockquote cite {
 .flex-control-nav {
     margin-top: 10px;
     text-align: center;
+    display: none;
 }
 .flex-control-nav li {
     display: inline-block;
